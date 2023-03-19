@@ -1,0 +1,4 @@
+source/*
+!source/IPLT20-2023.csv
+destination/*
+vendor/*
